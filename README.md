@@ -1,16 +1,20 @@
 <!-- ============================================================ -->
-<!--            PERFIL GITHUB • TEMA LANTERNA VERDE               -->
+<!--        PERFIL GITHUB • TROPA DOS LANTERNAS VERDES            -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00A83A,100:00FF66&height=230&section=header&text=Pedro%20Lemos%20Santimaria&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Vontade%20%E2%80%A2%20C%C3%B3digo%20%E2%80%A2%20Energia%20Verde&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00A83A,100:00FF66&height=230&section=header&text=Pedro%20Lemos%20Santimaria&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20.NET%20%2B%20React%20%E2%80%A2%20Tropa%20dos%20Lanternas%20Verdes&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=00FF66&center=true&vCenter=true&width=700&lines=%F0%9F%9F%A2+Bem-vindo+ao+meu+universo!;%F0%9F%92%BB+Transformando+vontade+em+c%C3%B3digo;%E2%9A%A1+Construindo+coisas+incr%C3%ADveis+com+tecnologia;%F0%9F%9A%80+Sempre+evoluindo%2C+sempre+brilhando+em+verde" alt="Typing SVG" />
+<img src="./assets/emblema.svg" width="170" alt="Emblema da Tropa"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=00FF66&center=true&vCenter=true&width=760&lines=%F0%9F%9F%A2+Bem-vindo+%C3%A0+Tropa%2C+recruta!;%F0%9F%92%BB+Desenvolvedor+Full+Stack+.NET+%2B+React;%E2%9A%A1+Vontade+vira+c%C3%B3digo%2C+c%C3%B3digo+vira+produto;%F0%9F%9A%80+Setor+2814%3A+APIs+%2B+interfaces+que+brilham" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ANEL%20CARREGADO-00FF66?style=for-the-badge&logo=lightning&logoColor=black&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/TROPA-LANTERNAS%20VERDES-00FF66?style=for-the-badge&logo=lightning&logoColor=black&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/.NET-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=00FF66" />
 <img src="https://img.shields.io/github/followers/PedroLemosSantimaria?style=for-the-badge&color=00A83A&labelColor=0a0a0a&logo=github&logoColor=00FF66" />
 <img src="https://komarev.com/ghpvc/?username=PedroLemosSantimaria&style=for-the-badge&color=00FF66&label=VISITAS&labelColor=0a0a0a" />
 
@@ -19,24 +23,25 @@
 <br/>
 
 ```diff
-+ ╔═══════════════════════════════════════════════════════╗
-+ ║   🟢  SISTEMA ONLINE  •  ENERGIA DO ANEL: 100%  🟢    ║
-+ ╚═══════════════════════════════════════════════════════╝
++ ╔═══════════════════════════════════════════════════════════╗
++ ║  🟢  TROPA DOS LANTERNAS VERDES  •  ANEL: 100% CARREGADO  🟢 ║
++ ║        OFICIAL: PEDRO LEMOS  •  ESPECIALIDADE: .NET + REACT   ║
++ ╚═══════════════════════════════════════════════════════════╝
 ```
 
-## 🟢 &nbsp;Quem sou eu?
+## 🟢 &nbsp;Ficha do Lanterna
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
-E aí! 👋 Eu sou o **Pedro**, e você acabou de pousar no meu setor do universo.
+E aí! 👋 Eu sou o **Pedro**, **desenvolvedor Full Stack** com foco em **.NET e React**, e você acabou de pousar no meu setor.
 
-Aqui a regra é simples: **a força de vontade é o melhor compilador**. Se dá pra imaginar, dá pra construir. 💚
+Na Tropa, a regra é simples: **força de vontade é o melhor compilador**. Se dá pra imaginar, dá pra construir. 💚
 
-- 🔭 Atualmente trabalhando em projetos que me desafiam a crescer
-- 🌱 Sempre aprendendo algo novo (o anel nunca descarrega)
-- 💬 Pergunte-me sobre: **programação, tecnologia e criar soluções**
-- ⚡ Curiosidade: o verde é minha cor de poder (e de *dark mode* também)
-- 📫 Bora trocar ideia? Me chama pelos links lá embaixo!
+- 🛡️ **Patrulha:** back-ends robustos com **C# / .NET** e front-ends rápidos com **React**
+- 🔭 **Missão atual:** construir sistemas completos, do banco de dados à interface
+- 🌱 **Treinamento:** sempre evoluindo (o anel nunca descarrega)
+- 💬 **Pergunte-me sobre:** APIs, arquitetura, front-end e como criar soluções de ponta a ponta
+- ⚡ **Poder:** transformar ideias em aplicações que funcionam de verdade
 
 <br/>
 
@@ -44,22 +49,20 @@ Aqui a regra é simples: **a força de vontade é o melhor compilador**. Se dá 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,linux&perline=11&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,azure,docker,git,github,vscode,visualstudio&perline=13&theme=dark" alt="skills"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/-HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/-CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/-JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/-TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/-C%23-0a0a0a?style=for-the-badge&logo=csharp&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/-.NET-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/-ASP.NET%20Core-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=00FF66" />
 <img src="https://img.shields.io/badge/-React-0a0a0a?style=for-the-badge&logo=react&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/-Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/-TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/-JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/-SQL%20Server-0a0a0a?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF66" />
 <img src="https://img.shields.io/badge/-Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00FF66" />
 
 </div>
-
-> 💡 *Dica: edite as tecnologias acima para refletir o que você realmente usa. Ícones disponíveis em [skillicons.dev](https://skillicons.dev).*
 
 <br/>
 
@@ -82,7 +85,7 @@ Aqui a regra é simples: **a força de vontade é o melhor compilador**. Se dá 
 
 <br/>
 
-## 🏆 &nbsp;Conquistas
+## 🏆 &nbsp;Condecorações da Tropa
 
 <div align="center">
 
@@ -96,20 +99,18 @@ Aqui a regra é simples: **a força de vontade é o melhor compilador**. Se dá 
 
 | 🎯 Missão | 📈 Progresso |
 |-----------|--------------|
-| Evoluir como desenvolvedor | ![](https://geps.dev/progress/80?dangerColor=00FF66&warningColor=00FF66&successColor=00FF66) |
-| Construir projetos incríveis | ![](https://geps.dev/progress/65?dangerColor=00FF66&warningColor=00FF66&successColor=00FF66) |
-| Aprender novas tecnologias | ![](https://geps.dev/progress/90?dangerColor=00FF66&warningColor=00FF66&successColor=00FF66) |
+| Dominar o ecossistema **.NET** | ![](https://geps.dev/progress/85?dangerColor=00FF66&warningColor=00FF66&successColor=00FF66) |
+| Interfaces poderosas com **React** | ![](https://geps.dev/progress/80?dangerColor=00FF66&warningColor=00FF66&successColor=00FF66) |
+| Arquitetura e boas práticas | ![](https://geps.dev/progress/70?dangerColor=00FF66&warningColor=00FF66&successColor=00FF66) |
 
 <br/>
 
-## 📡 &nbsp;Canais de Comunicação
+## 📡 &nbsp;Canal de Comunicação da Tropa
 
 <div align="center">
 
-<a href="https://github.com/PedroLemosSantimaria"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF66" /></a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF66" /></a>
-<a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/E--mail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF66" /></a>
-<a href="https://instagram.com/SEU-USUARIO"><img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=00FF66" /></a>
+<a href="https://www.linkedin.com/in/pedro-henrique-lemos-santimaria-990b2a262/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF66" /></a>
+<a href="mailto:pedrohlemossanti@outlook.com"><img src="https://img.shields.io/badge/E--mail-0a0a0a?style=for-the-badge&logo=microsoftoutlook&logoColor=00FF66" /></a>
 
 </div>
 
@@ -117,10 +118,12 @@ Aqui a regra é simples: **a força de vontade é o melhor compilador**. Se dá 
 
 <div align="center">
 
+<img src="./assets/emblema.svg" width="90" alt="Emblema da Tropa"/>
+
 ### 💚 *"Onde há vontade, há código."* 💚
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:00A83A,100:000000&height=140&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
-<sub>Feito com 💚, café e muita força de vontade • Obrigado pela visita!</sub>
+<sub>Feito com 💚, café e muita força de vontade • Obrigado pela visita, recruta!</sub>
 
 </div>
