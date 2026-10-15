@@ -45,6 +45,24 @@ Na Tropa, a regra é simples: **força de vontade é o melhor compilador**. Se d
 
 <br/>
 
+## 📜 &nbsp;Juramento do Lanterna Dev
+
+<div align="center">
+
+```diff
++  No dia mais claro,
++  Na noite mais densa,
++  Nenhum mal escapará à minha presença.
++  Todo aquele que venera o mal há de penar,
++  Quando o poder do Lanterna Verde enfrentar!
+```
+
+<sub>🟢 Juramento original, escrito para este perfil 🟢</sub>
+
+</div>
+
+<br/>
+
 ## 💍 &nbsp;Arsenal do Anel (Tech Stack)
 
 <div align="center">
@@ -73,13 +91,11 @@ Na Tropa, a regra é simples: **força de vontade é o melhor compilador**. Se d
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroLemosSantimaria&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00FF66&icon_color=00FF66&text_color=c9f7d9&ring_color=00FF66&rank_icon=github&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLemosSantimaria&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00FF66&text_color=c9f7d9&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=PedroLemosSantimaria&theme=dark&hide_border=true&background=0a0a0a&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=c9f7d9&currStreakNum=c9f7d9&sideNums=c9f7d9&dates=6b8f7a" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroLemosSantimaria&bg_color=0a0a0a&color=00FF66&line=00FF66&point=ffffff&area=true&area_color=00FF66&hide_border=true" width="100%" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroLemosSantimaria&query=%24.public_repos&label=REPOSITORIOS&color=00FF66&labelColor=0a0a0a&style=for-the-badge&logo=github&logoColor=00FF66" />
+<img src="https://img.shields.io/github/followers/PedroLemosSantimaria?label=SEGUIDORES&color=00FF66&labelColor=0a0a0a&style=for-the-badge&logo=github&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPedroLemosSantimaria&query=%24.following&label=SEGUINDO&color=00FF66&labelColor=0a0a0a&style=for-the-badge&logo=github&logoColor=00FF66" />
 
 </div>
 
