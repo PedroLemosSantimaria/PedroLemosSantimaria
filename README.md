@@ -89,7 +89,15 @@ Na Tropa, a regra é simples: **força de vontade é o melhor compilador**. Se d
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PedroLemosSantimaria&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img src="https://img.shields.io/badge/PATENTE-FULL%20STACK%20DEV-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/ANEL-NIVEL%20.NET-00FF66?style=for-the-badge&logo=dotnet&logoColor=00FF66&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/PODER-REACT-00FF66?style=for-the-badge&logo=react&logoColor=00FF66&labelColor=0a0a0a" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SETOR-2814-00A83A?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/ENERGIA-100%25-00A83A?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/VONTADE-INABALAVEL-00A83A?style=for-the-badge&labelColor=0a0a0a" />
 
 </div>
 
